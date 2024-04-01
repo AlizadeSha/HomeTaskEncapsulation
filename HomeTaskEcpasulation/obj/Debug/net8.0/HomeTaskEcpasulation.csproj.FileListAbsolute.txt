@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\bin\Debug\net8.0\HomeTaskEcpasulation.exe
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\bin\Debug\net8.0\HomeTaskEcpasulation.deps.json
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\bin\Debug\net8.0\HomeTaskEcpasulation.runtimeconfig.json
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\bin\Debug\net8.0\HomeTaskEcpasulation.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\bin\Debug\net8.0\HomeTaskEcpasulation.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\obj\Debug\net8.0\HomeTaskEcpasulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\obj\Debug\net8.0\HomeTaskEcpasulation.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\obj\Debug\net8.0\HomeTaskEcpasulation.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\obj\Debug\net8.0\HomeTaskEcpasulation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\obj\Debug\net8.0\HomeTaskEcpasulation.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\obj\Debug\net8.0\refint\HomeTaskEcpasulation.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\obj\Debug\net8.0\HomeTaskEcpasulation.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\obj\Debug\net8.0\HomeTaskEcpasulation.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskEcpasulation\obj\Debug\net8.0\ref\HomeTaskEcpasulation.dll
